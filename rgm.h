@@ -1,0 +1,1 @@
+char** RanGenMap(int n);

@@ -1,0 +1,2 @@
+all:
+	g++ -o cc3k main.cc helper.cc cell.cc floor.cc map.cc object.cc player.cc print.cc race.cc human.cc elves.cc orc.cc dwarf.cc skill.cc skills.cc enemy.cc dragon.cc merchant.cc troll.cc werewolf.cc phoenix.cc vampire.cc goblin.cc rgm.cc classes.cc mage.cc item.cc potion.cc h.cc a.cc d.cc warrior.cc knight.cc uclass.cc bloodmage.cc spirithealer.cc ranger.cc berserker.cc paladin.cc deathknight.cc boss.cc bosses.cc treasure.cc rune.cc runes.cc global.cc

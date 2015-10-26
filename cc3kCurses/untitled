@@ -1,0 +1,14 @@
+#ifndef __TREASURE_H__
+#define __TREASURE_H__
+#include "treasure.h"
+//class Item;
+class Treasure: public Item {
+public:
+	Treasure();
+	void setAmount();
+	std::string getName();
+	const char getChar();
+	void useItem(player *p);
+	~Treasure();
+};
+#endif
