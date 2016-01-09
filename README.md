@@ -1,3 +1,6 @@
 # cc3k
 ### Winter Term 2015
-### all codes along with design.pdf, uml.pdf
+
+[Design](https://github.com/jingt06/cc3k/blob/master/design.pdf)
+
+[UML](https://github.com/jingt06/cc3k/blob/master/a5uml.pdf)
